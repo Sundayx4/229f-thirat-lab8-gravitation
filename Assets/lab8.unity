@@ -562,7 +562,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   planet: 0
-  orbitSpeed: 5000
+  orbitSpeed: 20000
 --- !u!1001 &821860000
 PrefabInstance:
   m_ObjectHideFlags: 0
